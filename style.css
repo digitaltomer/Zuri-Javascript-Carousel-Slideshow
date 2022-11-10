@@ -19,6 +19,14 @@
     display: none;
 }
 
+.numbers{
+   color: #000000;
+   font-size: 12px;
+   padding: 8px 12px;
+   position: absolute;
+   top: 0;
+}
+
 .prev, .next{
     cursor: pointer;
     position: absolute;
